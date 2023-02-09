@@ -1,2 +1,2 @@
 #!/bin/bash
-$ realpath -q /tmp/correction/3511445459453774592990061321076503323985_5/205/285663/0x00-shell_basics
+$ pwd -P
