@@ -1,1 +1,1 @@
-My first task readmi
+readme for O_Shell_basics
